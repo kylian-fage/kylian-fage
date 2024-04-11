@@ -1,16 +1,21 @@
-### Hi there 👋
+<h2 align="center">👋 Hi there! I'm Kylian</h2>
 
-<!--
-**kylian-fage/kylian-fage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Computational Linguistics Student
 
-Here are some ideas to get you started:
+🤖 Passionate about LLMs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎨 Frontend Dev & UI/UX Enthusiast
+
+---
+
+**My Passions Beyond Code:**
+
+🇯🇵 Japanese Culture and Language
+
+📚 Unwinding with a Good Read Now and Then
+
+🍝 Amateur Chef
+
+<pre>
+  ✨ <b>Where Language, Cutting-Edge Tech & Aesthetics Intertwine</b>
+</pre>
