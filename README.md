@@ -17,5 +17,5 @@
 🍝 Amateur Chef
 
 <pre>
-  ✨ <b>Where Language, Cutting-Edge Tech & Aesthetics Intertwine</b>
+✨ <b>Where Language, Cutting-Edge Tech & Aesthetics Intertwine</b>
 </pre>
